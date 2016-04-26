@@ -1,0 +1,2 @@
+# trelbot
+Automate trello tasks
